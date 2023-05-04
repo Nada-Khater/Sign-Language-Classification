@@ -1,7 +1,7 @@
 # Sign-Language-Classification
 ## Overview
 
-Sign language classification model using CNN, Gradio and Hugging Face which classifies the sign language input images with an accuracy of 99%.
+Sign language classification model using CNN, Gradio and Hugging Face which classifies the sign language input images into 36 class (0-9),(a-z) with an accuracy of 99%.
 
 ## Dataset
 Dataset available at: https://www.kaggle.com/datasets/ayuraj/asl-dataset
